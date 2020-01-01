@@ -1,7 +1,14 @@
 # pycv
+
+---
+
+*&#9758; **This repository is no longer actively maintained.** Please consider switching to the [next edition's repository](https://github.com/PacktPublishing/Learning-OpenCV-4-Computer-Vision-with-Python-Third-Edition), which officially supports OpenCV 4.x and should generally work with OpenCV 3.4 as well. Over there, you will find many bugfixes, improvements, and updates.*
+
+---
+
 ## Learning OpenCV 3 with Python - Second Edition
 
-This is the repository and reference website for [Learning OpenCV 3 with Python](https://www.packtpub.com/application-development/learning-opencv-3-computer-vision-python-second-edition), a book authored by [Joe Minichino](https://github.com/techfort) and [Joe Howse](https://github.com/JoeHowse), and published by Packt Publishing.
+This is the repository and reference website for [Learning OpenCV 3 Computer Vision with Python](https://www.packtpub.com/application-development/learning-opencv-3-computer-vision-python-second-edition), a book authored by [Joe Minichino](https://github.com/techfort) and [Joe Howse](https://github.com/JoeHowse), and published by Packt Publishing.
 
 The book also has a Simplified Chinese edition, [OpenCV 3计算机视觉:Python语言实现](http://hzbook.com/Books/9290.html), translated by Liu Bo, Miao Beibei, and Shi Bin, and published by HZ Books / China Machine Press. This repository might also help readers of OpenCV 3计算机视觉:Python语言实现, but for Chinese-language support please contact HZ Books.
 
